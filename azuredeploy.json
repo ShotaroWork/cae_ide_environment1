@@ -576,7 +576,6 @@
                 "[resourceId('Microsoft.Storage/storageAccounts', parameters('storageAccounts_test2shimegi2ade_name'))]"
             ],
             "properties": {
-                "accessTier": "TransactionOptimized",
                 "shareQuota": 102400,
                 "enabledProtocols": "SMB",
                 "metadata":{
