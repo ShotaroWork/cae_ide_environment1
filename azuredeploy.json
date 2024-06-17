@@ -578,7 +578,10 @@
             "properties": {
                 "accessTier": "TransactionOptimized",
                 "shareQuota": 102400,
-                "enabledProtocols": "SMB"
+                "enabledProtocols": "SMB",
+                "metadata":{
+                    "exampleKey":"exampleValue"
+                }
             }
         }
     ]
